@@ -1,0 +1,19 @@
+PODS:
+  - Alamofire (3.2.0)
+  - NVActivityIndicatorView (2.3)
+  - RMActionController (1.0.5)
+  - RMDateSelectionViewController (2.0.3):
+    - RMActionController (~> 1.0.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - NVActivityIndicatorView
+  - RMDateSelectionViewController (~> 2.0.3)
+
+SPEC CHECKSUMS:
+  Alamofire: 4da478599fccddff361205c8929333d7fe18dceb
+  NVActivityIndicatorView: c7ef25ef527ab5e51b00322cb1ddd58681bcf2a3
+  RMActionController: b83653e7452ed51492094d65dc82151c36443c03
+  RMDateSelectionViewController: 354a0f1fe40bac01054528b7a8735f2973bbd813
+
+COCOAPODS: 0.39.0

@@ -9,10 +9,20 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>JBChart.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>CA951A691C7248E90001EA5C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CAB4DD751C78C1C20007CA23</key>
 		<dict>
 			<key>primary</key>
 			<true/>
